@@ -1,14 +1,11 @@
-# Login + Crud Node js & Mongo DB
+# PokeChallenge
 
-![Image text](https://i.postimg.cc/dVbdrXbf/Noytes-app.png)
+![Image text](https://github.com/Leon2192/pokeChallenge/blob/main/img/logo.png)
 
-### Proyecto backend desarrollado con Node js express y Mongo DB. La app permite un proceso de login/registro y permite agregar, eliminar, actualizar y visualizar notas a través de peticiones http.
+### App que se comunica con api https://pokeapi.co/ 
 
 #### Tecnologías utilizadas:
-Html
-Handlebars
+Html 
 Css
-Bootstrap
-Express
-Mongo DB 
-Passport
+Javascript
+
